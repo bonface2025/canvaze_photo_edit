@@ -1,1 +1,1 @@
-# canvaze_photo_edit
+# canva-clone-frontend
